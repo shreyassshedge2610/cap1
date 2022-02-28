@@ -1,0 +1,29 @@
+git --version
+
+git help config OR git config --help
+
+mkdir test  ---making directory name test  (directory is created in local path)
+
+cd test     ----choosing that file
+
+git init    ----initiailizing that
+
+git status
+
+git add 1.txt----adding this file to directory
+
+git commit -m "comitting a text file"--This will tell chnges in file 
+
+git config --global user.email "you@example.com"
+
+git config --global user.email "shreyassshedge26@gmail.com"
+
+git remote add origin https://github.com/shreyassshedge2610/cap1.git
+----connecting local to github
+
+git push origin master  ---- pushing files
+
+
+
+
+
